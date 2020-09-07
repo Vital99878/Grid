@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b641a0bc-9e07-4c4b-8fcd-096022ca2902" name="Default Changelist" comment="" />
+    <list default="true" id="b641a0bc-9e07-4c4b-8fcd-096022ca2902" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_features.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_features.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_typography.scss" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +26,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h8tFl9U5JFl5aJPvBHRSQh2e7N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -45,7 +57,7 @@
     </option>
   </component>
   <component name="StructureViewFactory">
-    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
     <option name="ACTIVE_ACTIONS" value=",Show Custom Properties,Show Imports" />
   </component>
   <component name="SvnConfiguration">
@@ -62,11 +74,27 @@
       <workItem from="1599454575190" duration="102000" />
       <workItem from="1599454688761" duration="106000" />
       <workItem from="1599454807244" duration="4476000" />
-      <workItem from="1599461056412" duration="2702000" />
+      <workItem from="1599461056412" duration="2880000" />
+      <workItem from="1599463951869" duration="35000" />
+      <workItem from="1599463998547" duration="37000" />
+      <workItem from="1599464046386" duration="5026000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
