@@ -1,5 +1,5 @@
 .features {
-    margin: 15rem 0;
+    margin: 7rem 0;
     grid-column: center-start/center-end;
 
     display: grid;
@@ -7,6 +7,7 @@
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
     grid-gap: 6rem;
     align-items: start;
+    padding: 0 3rem;
 
 }
 
